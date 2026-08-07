@@ -1,10 +1,14 @@
 {
   "sukisu_root": {
     "good": "278d822a4ebd214bcfd774b7910cb11cdc560bb9",
+    "history": [],
     "bad": []
   },
   "sukisu_susfs": {
     "good": "5a2bb7e5813002ccaabe02fa864cfb2dde6b5109",
+    "history": [
+      "b1d534bc41941b2c818d7a1a1dac341e4aabfc2d"
+    ],
     "bad": [
       "6c5603f0c853a94256940273efc433cbbc85f57a",
       "e2912817f4e1b194e582a06e0b5eacf6a3fb7083"
@@ -12,22 +16,41 @@
   },
   "resukisu_susfs": {
     "good": "cdce8bb8c8bf2167d21751e39ca6cdc4ad154678",
+    "history": [
+      "f56219d2998dc00aa2a80eda8c2280b1455a3519",
+      "f7be4a53bd39d4a03876eba5e888818b1a1fcaac",
+      "59c99fdf1735c37681ff18c7ffd7834741dcccbf",
+      "73533390e6e02571014f0ee77ca233b99f57ab7a"
+    ],
     "bad": [
       "82c7f72d6486db3edc5deaa321e4acf96febd38e"
     ]
   },
   "ksunext_root": {
     "good": "d1754d8cc12f05e18406171cbd1bc32cc2930d1b",
+    "history": [],
     "bad": []
   },
   "ksunext_susfs": {
     "good": "956dd5bacaae000a41a35f01b19df63622eacd05",
+    "history": [
+      "847e6251b6f1b28c230090aefd9dd92a16f1b234",
+      "1dec76ef97ca046ca617431dbf9d67f0dd57913a",
+      "6924f77f6fd95bf83d710f5c097997c896b6c578",
+      "5222639e6c9b9cb4551527e2f2176546dcfea68e",
+      "ecb649019c19fa884f3b293fe3e847aaf804d0c2",
+      "bca6aa480972a9732865487724223799b0311947",
+      "880c0ee92d38c02e81e2834684e18ad7a66d2f5f"
+    ],
     "bad": [
       "c3cfb2da1e0fdf4999a08b67c6daa0746f8b1568"
     ]
   },
   "susfs4ksu": {
     "good": "3f0b811b2e105afd8dc858cd71389090e01f404b",
+    "history": [
+      "9c84408f1623d6e5d5dbaddd984a2227b091d898"
+    ],
     "bad": [
       "4674397c2e20256401b5db354a697b056809ffaa",
       "4ba9a7e0286fb072b3871bd429d87d74b249785c",
@@ -37,6 +60,7 @@
   },
   "resukisu_root": {
     "good": "2206a7dd71e600f34378c4c583244f46e7a35670",
+    "history": [],
     "bad": [
       "f7be4a53bd39d4a03876eba5e888818b1a1fcaac"
     ]
