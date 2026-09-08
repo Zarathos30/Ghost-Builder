@@ -34,12 +34,12 @@
     "bad": []
   },
   "ksunext_susfs": {
-    "good": "3438d6aa431f96a23f9e625bec3d53ce1fb14161",
+    "good": "956dd5bacaae000a41a35f01b19df63622eacd05",
     "history": [
+      "3438d6aa431f96a23f9e625bec3d53ce1fb14161",
       "956dd5bacaae000a41a35f01b19df63622eacd05",
       "847e6251b6f1b28c230090aefd9dd92a16f1b234",
-      "1dec76ef97ca046ca617431dbf9d67f0dd57913a",
-      "6924f77f6fd95bf83d710f5c097997c896b6c578"
+      "1dec76ef97ca046ca617431dbf9d67f0dd57913a"
     ],
     "bad": [
       "c3cfb2da1e0fdf4999a08b67c6daa0746f8b1568"
